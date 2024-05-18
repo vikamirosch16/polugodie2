@@ -1,6 +1,6 @@
 import math
 import random 
-a='Виктория'
+a='Вика'
 cnd = 0
 a1=a
 m=[]
